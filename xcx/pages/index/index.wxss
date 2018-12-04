@@ -1,0 +1,21 @@
+.box{
+  width:50%;
+  display: flex;
+  box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.6);
+  margin:30rpx auto;
+  border-radius: 6px;
+}
+.zuo{
+  flex:1;
+  text-align: center;
+}
+image{
+  display: block;
+  width:100rpx;
+  height:100rpx;
+  border-radius:50%;
+}
+.you{
+  flex:2;
+  font-size:50px;
+}
